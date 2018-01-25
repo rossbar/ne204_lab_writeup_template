@@ -7,3 +7,10 @@
 
 # Ignore data folder
 data/*
+
+# LaTeX cruft
+*.aux
+*.log
+*.pdf
+*.bbl
+*.blg
